@@ -4,9 +4,8 @@
   <h3> The Witch: Subversion Part 2 </h3>
 <hr width="50%" size="10px" color="black">
 </head>
+ 
   <body>
-![image](https://user-images.githubusercontent.com/103830479/208009393-231da7f5-d7f2-4c74-9052-0726e4aeb8e4.png)
-
  <p> In this sequel to the popular Korean sci-fi action thriller The Witch, </p> 
  <p> the story moves away from a confined secret lab and out into the real world. </p> 
  <p> After a mysterious girl emerges as the sole survivor of a bloody raid on the research </p>
